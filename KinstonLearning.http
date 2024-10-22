@@ -1,0 +1,6 @@
+@KinstonLearning_HostAddress = http://localhost:5127
+
+GET {{KinstonLearning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
